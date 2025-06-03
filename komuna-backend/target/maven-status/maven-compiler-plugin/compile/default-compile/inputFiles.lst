@@ -1,0 +1,15 @@
+C:\Users\xxwol\OneDrive\Escritorio\komuna-backend\src\main\java\com\komuna\komuna_backend\config\CorsConfig.java
+C:\Users\xxwol\OneDrive\Escritorio\komuna-backend\src\main\java\com\komuna\komuna_backend\controller\VendedorController.java
+C:\Users\xxwol\OneDrive\Escritorio\komuna-backend\src\main\java\com\komuna\komuna_backend\controller\VisitanteController.java
+C:\Users\xxwol\OneDrive\Escritorio\komuna-backend\src\main\java\com\komuna\komuna_backend\dto\TiendaPublicView.java
+C:\Users\xxwol\OneDrive\Escritorio\komuna-backend\src\main\java\com\komuna\komuna_backend\dto\TiendaUpdateRequest.java
+C:\Users\xxwol\OneDrive\Escritorio\komuna-backend\src\main\java\com\komuna\komuna_backend\dto\VendedorRegistroRequest.java
+C:\Users\xxwol\OneDrive\Escritorio\komuna-backend\src\main\java\com\komuna\komuna_backend\dto\VendedorRegistroResponse.java
+C:\Users\xxwol\OneDrive\Escritorio\komuna-backend\src\main\java\com\komuna\komuna_backend\entity\Tienda.java
+C:\Users\xxwol\OneDrive\Escritorio\komuna-backend\src\main\java\com\komuna\komuna_backend\exception\DuplicateResourceException.java
+C:\Users\xxwol\OneDrive\Escritorio\komuna-backend\src\main\java\com\komuna\komuna_backend\exception\GlobalExceptionHandler.java
+C:\Users\xxwol\OneDrive\Escritorio\komuna-backend\src\main\java\com\komuna\komuna_backend\exception\InvalidCredentialsException.java
+C:\Users\xxwol\OneDrive\Escritorio\komuna-backend\src\main\java\com\komuna\komuna_backend\exception\ResourceNotFoundException.java
+C:\Users\xxwol\OneDrive\Escritorio\komuna-backend\src\main\java\com\komuna\komuna_backend\KomunaBackendApplication.java
+C:\Users\xxwol\OneDrive\Escritorio\komuna-backend\src\main\java\com\komuna\komuna_backend\repository\TiendaRepository.java
+C:\Users\xxwol\OneDrive\Escritorio\komuna-backend\src\main\java\com\komuna\komuna_backend\service\TiendaService.java

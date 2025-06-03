@@ -1,0 +1,16 @@
+com\komuna\komuna_backend\dto\VendedorRegistroResponse.class
+com\komuna\komuna_backend\exception\DuplicateResourceException.class
+com\komuna\komuna_backend\exception\InvalidCredentialsException.class
+com\komuna\komuna_backend\repository\TiendaRepository.class
+com\komuna\komuna_backend\dto\TiendaUpdateRequest.class
+com\komuna\komuna_backend\KomunaBackendApplication.class
+com\komuna\komuna_backend\config\CorsConfig$1.class
+com\komuna\komuna_backend\service\TiendaService.class
+com\komuna\komuna_backend\controller\VendedorController.class
+com\komuna\komuna_backend\controller\VisitanteController.class
+com\komuna\komuna_backend\dto\TiendaPublicView.class
+com\komuna\komuna_backend\entity\Tienda.class
+com\komuna\komuna_backend\exception\GlobalExceptionHandler.class
+com\komuna\komuna_backend\exception\ResourceNotFoundException.class
+com\komuna\komuna_backend\config\CorsConfig.class
+com\komuna\komuna_backend\dto\VendedorRegistroRequest.class
